@@ -1,0 +1,187 @@
+body{
+	background-color: #f9f9f9 !important;
+	font-family: 'Raleway', sans-serif !important;
+  	font-size: 14px;/*14pt*/	
+}
+h1{
+  font-size: 3.9em !important;
+  font-weight: 1000 !important;
+}
+h2{
+  font-weight: 700;
+  font-size: 1.8em;/*26pt*/
+}
+h3{
+  font-size: 1.43em;/*20pt*/
+  font-weight: 900 !important;
+}
+
+h4{
+  font-size: 1.15em;/*16pt*/
+  font-weight: 700;
+}
+
+h5{
+  font-weight: 500; /*13pt*/
+  font-size: 0.93em;
+}
+h6 .btn{
+  font-weight: 350; /*12pt*/
+  font-size: 0.80em;
+}
+p {
+  font-weight: 400;
+  font-size: 1em;/*14pt*/
+  line-height: 2em;
+  color: #7a7a7a !important;
+}
+.bg-black{
+	background: #333333 !important;
+}
+.bg-grey{
+	background: #8a8a8a !important;
+}
+.bg-dark{
+	background: #383838 !important;
+}
+.bg-green{
+	background: #00a99d !important;
+}
+.bg-transparent{
+	background: transparent !important;
+}
+.text-black{
+	color: #383838 !important;
+}
+.text-dark{/*h3*/
+	color: #606060 !important;
+}
+.text-grey{/*p*/
+	color: #7a7a7a !important;
+}
+.text-title-grey{
+	color: #8a8a8a !important;
+}
+.text-green{
+	color: #00a99d !important;
+}
+.text-light{
+	color: #e4e4e4 !important;
+}
+.text-dimm{
+	color: #aaaaaa !important;
+}
+.btn-info{
+  background: #00a99d;
+}
+.btn-outline-info{
+  border-color: #00a99d;
+  color: #00a99d;
+}
+.btn-outline-info:hover{
+  background: #00a99d;
+}
+.text-button-grey{
+	color: #8a8a8a !important;
+}
+.text-button-hovered{
+	color: #e3e3e3 !important;
+}
+.link :hover{
+  background: #00a99d;
+  color:#f9f9f9!important;
+}
+.padding-to-top{
+  padding-top: 8rem !important;
+}
+.padding-to-bottom{
+  padding-bottom: 8rem !important;
+}
+.jumbotron h1{
+	display: inline-block;
+	padding-top: 30px;
+}
+.jumbotron:hover h1{
+	background: #00a99d	!important;
+}
+.circle{
+	width: 120px;
+	height: 120px;
+	background: #333333 !important;
+}
+.test-circle {
+      width: 120px;
+      height: 120px;
+      border: 3px solid #00a99d !important;
+}
+.inbetween-icon
+{
+	display: block;
+	position: absolute;
+	left: 50%;
+	transform: translateY(-50%) translateX(-50%);
+}
+.photo-gallery{
+  padding-left: 0;
+  padding-right: 0;
+  padding: 1px;
+}
+.photo-gallery:hover #first-photo{
+  display: none;
+}
+.photo-gallery #second-photo{
+  display: none;
+}
+.photo-gallery:hover #second-photo{
+  display: inline-block;
+}
+.rotate{
+  transform: rotate(-45deg);
+  font-size: 0.6rem;
+  vertical-align: middle;
+  display:inline-block;
+}
+.card .fa-square{
+  color: #484848 !important;
+}
+.card:hover .fa-square{
+  color:#00a99d !important;
+}
+.lift-up{
+	padding-bottom: 50px;
+}
+sup{
+	bottom:15px;
+	top:-15px;
+}
+#member:hover #mail{
+	color:#00a99d !important;
+}
+.figure{
+  height:100%
+}
+.map-container iframe {
+  width: 100%;
+  height:500px;
+  -webkit-filter: grayscale(100%);
+       -moz-filter: grayscale(100%);
+        -ms-filter: grayscale(100%);
+         -o-filter: grayscale(100%);
+            filter: grayscale(100%);
+  /*
+            z-index: 1;
+  position: absolute;
+  */
+}
+/*
+.form-container{
+  position: relative;
+}
+.form-position{
+  position: absolute;
+  z-index: 10;
+  top:150px;
+  left: 100px;
+}
+*/
+/*PASTABA: Užkomentuotos vietos skirtos valdyti message formai, bet nuėmus komentarus footeris pasoka ir pasisleopia uz zemelapio*/

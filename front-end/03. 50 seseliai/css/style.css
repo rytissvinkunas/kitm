@@ -1,0 +1,200 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  margin: 0, auto; }
+
+.header {
+  background-color: #464646;
+  color: #f8f8f8;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 150px;
+  width: 100%;
+  text-align: center; }
+  .header h1 {
+    font-size: 3em; }
+  .header p {
+    font-size: 1em; }
+
+.shades-1 {
+  width: 20%;
+  height: 100px;
+  float: left;
+  background-color: #eaeaea; }
+
+.shades-2 {
+  width: 20%;
+  height: 100px;
+  float: left;
+  background-color: #e7e7e7; }
+
+.shades-3 {
+  width: 20%;
+  height: 100px;
+  float: left;
+  background-color: #e5e5e5; }
+
+.shades-4 {
+  width: 20%;
+  height: 100px;
+  float: left;
+  background-color: #e2e2e2; }
+
+.shades-5 {
+  width: 20%;
+  height: 100px;
+  float: left;
+  background-color: #e0e0e0; }
+
+.shades-6 {
+  width: 20%;
+  height: 100px;
+  float: left;
+  background-color: #dddddd; }
+
+.shades-7 {
+  width: 20%;
+  height: 100px;
+  float: left;
+  background-color: #dadada; }
+
+.shades-8 {
+  width: 20%;
+  height: 100px;
+  float: left;
+  background-color: #d8d8d8; }
+
+.shades-9 {
+  width: 20%;
+  height: 100px;
+  float: left;
+  background-color: #d5d5d5; }
+
+.shades-10 {
+  width: 20%;
+  height: 100px;
+  float: left;
+  background-color: lightgray; }
+
+.shades-11 {
+  width: 20%;
+  height: 100px;
+  float: left;
+  background-color: #d0d0d0; }
+
+.shades-12 {
+  width: 20%;
+  height: 100px;
+  float: left;
+  background-color: #cecece; }
+
+.shades-13 {
+  width: 20%;
+  height: 100px;
+  float: left;
+  background-color: #cbcbcb; }
+
+.shades-14 {
+  width: 20%;
+  height: 100px;
+  float: left;
+  background-color: #c9c9c9; }
+
+.shades-15 {
+  width: 20%;
+  height: 100px;
+  float: left;
+  background-color: #c6c6c6; }
+
+.shades-16 {
+  width: 20%;
+  height: 100px;
+  float: left;
+  background-color: #c3c3c3; }
+
+.shades-17 {
+  width: 20%;
+  height: 100px;
+  float: left;
+  background-color: #c1c1c1; }
+
+.shades-18 {
+  width: 20%;
+  height: 100px;
+  float: left;
+  background-color: #bebebe; }
+
+.shades-19 {
+  width: 20%;
+  height: 100px;
+  float: left;
+  background-color: #bcbcbc; }
+
+.shades-20 {
+  width: 20%;
+  height: 100px;
+  float: left;
+  background-color: #b9b9b9; }
+
+.shades-21 {
+  width: 20%;
+  height: 100px;
+  float: left;
+  background-color: #b7b7b7; }
+
+.shades-22 {
+  width: 20%;
+  height: 100px;
+  float: left;
+  background-color: #b4b4b4; }
+
+.shades-23 {
+  width: 20%;
+  height: 100px;
+  float: left;
+  background-color: #b2b2b2; }
+
+.shades-24 {
+  width: 20%;
+  height: 100px;
+  float: left;
+  background-color: #afafaf; }
+
+.shades-25 {
+  width: 20%;
+  height: 100px;
+  float: left;
+  background-color: #adadad; }
+
+.shades-26 {
+  width: 20%;
+  height: 100px;
+  float: left;
+  background-color: #aaaaaa; }
+
+.shades-27 {
+  width: 20%;
+  height: 100px;
+  float: left;
+  background-color: #a7a7a7; }
+
+.shades-28 {
+  width: 20%;
+  height: 100px;
+  float: left;
+  background-color: #a5a5a5; }
+
+.shades-29 {
+  width: 20%;
+  height: 100px;
+  float: left;
+  background-color: #a2a2a2; }
+
+.shades-30 {
+  width: 20%;
+  height: 100px;
+  float: left;
+  background-color: #a0a0a0; }
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,47 @@
+.conteiner{
+	min-width: 300px;
+	height: 100%;
+	background-color: #eee;
+	padding: 20px;
+	position: relative;/*uzdeti reikia teviniam sita atributa jei norim, kad vaiko elementai su position: absoliute; butu apriboti tevinio elemento, kitaip atsirems i body*/
+}
+.conteiner div{
+	width: 200px;
+	height: 200px;
+	margin-top: 10px;
+	text-align: center;
+	line-height: 200px;
+	margin: 0 auto;
+	font-weight: bold;
+	text-transform: uppercase;
+	top:0;/*pozicionavimas nuo virsaus tevinio elemento, galima naudot px % ir kt.*/
+	right: 0;/*pozicionavimas nuo desines tevinio elemento*/
+
+}
+.conteiner div:nth-child(1){
+	background-color: tomato;
+	position: fixed;
+	top:100px;
+}
+.conteiner div:nth-child(2){
+	background-color: blue;
+}
+.conteiner div:nth-child(3){
+	background-color: yellow;
+	z-index: 1;/*sitas indexas uzdeda prioriteta kuri elementa rodyt auksciau uz kitus*/
+}
+.conteiner div:nth-child(4){
+	background-color: green;
+}
+.conteiner div:nth-child(5){
+	background-color: aqua;
+}
+.conteiner div:nth-child(6){
+	background-color: aqua;
+}
+.conteiner div:nth-child(7){
+	background-color: aqua;
+}
+.conteiner div:nth-child(8){
+	background-color: aqua;
+}
