@@ -8,13 +8,10 @@ class Header extends Component {
       pp: []
     }
   }
-
     render() { 
-        console.log(this.props);
-      this.setState({pp:this.props});
-      console.log(this.state.pp);
 
-
+        let g = this.props;
+        console.log(g);
         return (
             <div>
                 <p></p>

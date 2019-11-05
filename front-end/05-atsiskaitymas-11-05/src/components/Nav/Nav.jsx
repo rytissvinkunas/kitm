@@ -17,35 +17,26 @@ class Nav extends Component {
               items: json,
             })
           });
-          
       }
-
       render() {
 
-        var uu = this.state.items.place;
-
-        var dataArray = [];
-        for(var o in uu) {
+        let uu = this.state.items.place;
+        let dataArray = [];
+        for(let o in uu) {
             dataArray.push(uu[o]);
         }
-        
         console.log(dataArray);
-
-        
-
         if(!this.state.isLoaded){
             return <div>Loading...</div>;
           }
           else{
             return (
                   <div>
-                    <NavItem data={dataArray}/>
+                    <NavItem data={uu}/>
                 
                   </div>
                 );
           }
-          
-         
     }
 }
 export default Nav;
