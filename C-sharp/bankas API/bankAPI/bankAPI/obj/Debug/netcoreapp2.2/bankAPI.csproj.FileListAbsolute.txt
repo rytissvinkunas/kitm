@@ -1,0 +1,17 @@
+C:\Users\moksleivis\Desktop\bankas API\bankAPI\bankAPI\bin\Debug\netcoreapp2.2\bankAPI.deps.json
+C:\Users\moksleivis\Desktop\bankas API\bankAPI\bankAPI\bin\Debug\netcoreapp2.2\bankAPI.runtimeconfig.json
+C:\Users\moksleivis\Desktop\bankas API\bankAPI\bankAPI\bin\Debug\netcoreapp2.2\bankAPI.runtimeconfig.dev.json
+C:\Users\moksleivis\Desktop\bankas API\bankAPI\bankAPI\bin\Debug\netcoreapp2.2\bankAPI.dll
+C:\Users\moksleivis\Desktop\bankas API\bankAPI\bankAPI\bin\Debug\netcoreapp2.2\bankAPI.pdb
+C:\Users\moksleivis\Desktop\bankas API\bankAPI\bankAPI\obj\Debug\netcoreapp2.2\bankAPI.csproj.CoreCompileInputs.cache
+C:\Users\moksleivis\Desktop\bankas API\bankAPI\bankAPI\obj\Debug\netcoreapp2.2\bankAPI.RazorAssemblyInfo.cache
+C:\Users\moksleivis\Desktop\bankas API\bankAPI\bankAPI\obj\Debug\netcoreapp2.2\bankAPI.RazorAssemblyInfo.cs
+C:\Users\moksleivis\Desktop\bankas API\bankAPI\bankAPI\obj\Debug\netcoreapp2.2\bankAPI.AssemblyInfoInputs.cache
+C:\Users\moksleivis\Desktop\bankas API\bankAPI\bankAPI\obj\Debug\netcoreapp2.2\bankAPI.AssemblyInfo.cs
+C:\Users\moksleivis\Desktop\bankas API\bankAPI\bankAPI\obj\Debug\netcoreapp2.2\bankAPI.RazorTargetAssemblyInfo.cache
+C:\Users\moksleivis\Desktop\bankas API\bankAPI\bankAPI\obj\Debug\netcoreapp2.2\bankAPI.dll
+C:\Users\moksleivis\Desktop\bankas API\bankAPI\bankAPI\obj\Debug\netcoreapp2.2\bankAPI.pdb
+C:\Users\moksleivis\Desktop\bankas API\bankAPI\bankAPI\bin\Debug\netcoreapp2.2\Revolut.Domain.dll
+C:\Users\moksleivis\Desktop\bankas API\bankAPI\bankAPI\bin\Debug\netcoreapp2.2\Revolut.Domain.pdb
+C:\Users\moksleivis\Desktop\bankas API\bankAPI\bankAPI\obj\Debug\netcoreapp2.2\bankAPI.csprojAssemblyReference.cache
+C:\Users\moksleivis\Desktop\bankas API\bankAPI\bankAPI\obj\Debug\netcoreapp2.2\bankAPI.csproj.CopyComplete

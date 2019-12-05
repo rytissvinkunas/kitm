@@ -1,0 +1,8 @@
+C:\Users\moksleivis\Desktop\bankas API\bankAPI\Revolut.Domain\bin\Debug\netstandard2.0\Revolut.Domain.deps.json
+C:\Users\moksleivis\Desktop\bankas API\bankAPI\Revolut.Domain\bin\Debug\netstandard2.0\Revolut.Domain.dll
+C:\Users\moksleivis\Desktop\bankas API\bankAPI\Revolut.Domain\bin\Debug\netstandard2.0\Revolut.Domain.pdb
+C:\Users\moksleivis\Desktop\bankas API\bankAPI\Revolut.Domain\obj\Debug\netstandard2.0\Revolut.Domain.csproj.CoreCompileInputs.cache
+C:\Users\moksleivis\Desktop\bankas API\bankAPI\Revolut.Domain\obj\Debug\netstandard2.0\Revolut.Domain.AssemblyInfoInputs.cache
+C:\Users\moksleivis\Desktop\bankas API\bankAPI\Revolut.Domain\obj\Debug\netstandard2.0\Revolut.Domain.AssemblyInfo.cs
+C:\Users\moksleivis\Desktop\bankas API\bankAPI\Revolut.Domain\obj\Debug\netstandard2.0\Revolut.Domain.dll
+C:\Users\moksleivis\Desktop\bankas API\bankAPI\Revolut.Domain\obj\Debug\netstandard2.0\Revolut.Domain.pdb

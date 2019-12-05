@@ -1,0 +1,60 @@
+C:\Users\moksleivis\Desktop\C mvc\ToDo\ToDo\bin\Debug\netcoreapp2.2\ToDo.deps.json
+C:\Users\moksleivis\Desktop\C mvc\ToDo\ToDo\bin\Debug\netcoreapp2.2\ToDo.runtimeconfig.json
+C:\Users\moksleivis\Desktop\C mvc\ToDo\ToDo\bin\Debug\netcoreapp2.2\ToDo.runtimeconfig.dev.json
+C:\Users\moksleivis\Desktop\C mvc\ToDo\ToDo\bin\Debug\netcoreapp2.2\ToDo.dll
+C:\Users\moksleivis\Desktop\C mvc\ToDo\ToDo\bin\Debug\netcoreapp2.2\ToDo.pdb
+C:\Users\moksleivis\Desktop\C mvc\ToDo\ToDo\bin\Debug\netcoreapp2.2\ToDo.Views.dll
+C:\Users\moksleivis\Desktop\C mvc\ToDo\ToDo\bin\Debug\netcoreapp2.2\ToDo.Views.pdb
+C:\Users\moksleivis\Desktop\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\ToDo.csproj.CoreCompileInputs.cache
+C:\Users\moksleivis\Desktop\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\ToDo.RazorAssemblyInfo.cache
+C:\Users\moksleivis\Desktop\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\ToDo.RazorAssemblyInfo.cs
+C:\Users\moksleivis\Desktop\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\ToDo.AssemblyInfoInputs.cache
+C:\Users\moksleivis\Desktop\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\ToDo.AssemblyInfo.cs
+C:\Users\moksleivis\Desktop\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\ToDo.TagHelpers.input.cache
+C:\Users\moksleivis\Desktop\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\ToDo.TagHelpers.output.cache
+C:\Users\moksleivis\Desktop\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\ToDo.RazorCoreGenerate.cache
+C:\Users\moksleivis\Desktop\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\moksleivis\Desktop\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\moksleivis\Desktop\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\moksleivis\Desktop\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\moksleivis\Desktop\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\moksleivis\Desktop\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\moksleivis\Desktop\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\moksleivis\Desktop\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\moksleivis\Desktop\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\ToDo.RazorTargetAssemblyInfo.cache
+C:\Users\moksleivis\Desktop\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\ToDo.RazorTargetAssemblyInfo.cs
+C:\Users\moksleivis\Desktop\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\ToDo.Views.pdb
+C:\Users\moksleivis\Desktop\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\ToDo.dll
+C:\Users\moksleivis\Desktop\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\ToDo.pdb
+C:\Users\moksleivis\Desktop\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\ToDo.csproj.CopyComplete
+C:\Users\moksleivis\Desktop\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\ToDo.csprojAssemblyReference.cache
+C:\Users\moksleivis\Desktop\git kitm\C-sharp\C mvc\ToDo\ToDo\bin\Debug\netcoreapp2.2\ToDo.deps.json
+C:\Users\moksleivis\Desktop\git kitm\C-sharp\C mvc\ToDo\ToDo\bin\Debug\netcoreapp2.2\ToDo.runtimeconfig.json
+C:\Users\moksleivis\Desktop\git kitm\C-sharp\C mvc\ToDo\ToDo\bin\Debug\netcoreapp2.2\ToDo.runtimeconfig.dev.json
+C:\Users\moksleivis\Desktop\git kitm\C-sharp\C mvc\ToDo\ToDo\bin\Debug\netcoreapp2.2\ToDo.dll
+C:\Users\moksleivis\Desktop\git kitm\C-sharp\C mvc\ToDo\ToDo\bin\Debug\netcoreapp2.2\ToDo.pdb
+C:\Users\moksleivis\Desktop\git kitm\C-sharp\C mvc\ToDo\ToDo\bin\Debug\netcoreapp2.2\ToDo.Views.dll
+C:\Users\moksleivis\Desktop\git kitm\C-sharp\C mvc\ToDo\ToDo\bin\Debug\netcoreapp2.2\ToDo.Views.pdb
+C:\Users\moksleivis\Desktop\git kitm\C-sharp\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\ToDo.csprojAssemblyReference.cache
+C:\Users\moksleivis\Desktop\git kitm\C-sharp\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\ToDo.csproj.CoreCompileInputs.cache
+C:\Users\moksleivis\Desktop\git kitm\C-sharp\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\ToDo.RazorAssemblyInfo.cache
+C:\Users\moksleivis\Desktop\git kitm\C-sharp\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\ToDo.RazorAssemblyInfo.cs
+C:\Users\moksleivis\Desktop\git kitm\C-sharp\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\ToDo.AssemblyInfoInputs.cache
+C:\Users\moksleivis\Desktop\git kitm\C-sharp\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\ToDo.AssemblyInfo.cs
+C:\Users\moksleivis\Desktop\git kitm\C-sharp\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\ToDo.TagHelpers.input.cache
+C:\Users\moksleivis\Desktop\git kitm\C-sharp\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\ToDo.TagHelpers.output.cache
+C:\Users\moksleivis\Desktop\git kitm\C-sharp\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\ToDo.RazorCoreGenerate.cache
+C:\Users\moksleivis\Desktop\git kitm\C-sharp\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\moksleivis\Desktop\git kitm\C-sharp\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\moksleivis\Desktop\git kitm\C-sharp\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\moksleivis\Desktop\git kitm\C-sharp\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\moksleivis\Desktop\git kitm\C-sharp\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\moksleivis\Desktop\git kitm\C-sharp\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\moksleivis\Desktop\git kitm\C-sharp\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\moksleivis\Desktop\git kitm\C-sharp\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\moksleivis\Desktop\git kitm\C-sharp\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\ToDo.RazorTargetAssemblyInfo.cache
+C:\Users\moksleivis\Desktop\git kitm\C-sharp\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\ToDo.RazorTargetAssemblyInfo.cs
+C:\Users\moksleivis\Desktop\git kitm\C-sharp\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\ToDo.Views.pdb
+C:\Users\moksleivis\Desktop\git kitm\C-sharp\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\ToDo.dll
+C:\Users\moksleivis\Desktop\git kitm\C-sharp\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\ToDo.pdb
+C:\Users\moksleivis\Desktop\git kitm\C-sharp\C mvc\ToDo\ToDo\obj\Debug\netcoreapp2.2\ToDo.csproj.CopyComplete
