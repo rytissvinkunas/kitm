@@ -1,0 +1,14 @@
+$bg-color: #067eb2;
+$logo-text-color: #fff;
+
+.bg-color{
+    background: $bg-color;
+    a{
+        color: $logo-text-color;
+        &:hover{
+            text-decoration: none;
+            color: $logo-text-color;
+        }
+    }
+    
+}

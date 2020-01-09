@@ -1,0 +1,21 @@
+.scrollmenu {
+    background-color: #f3f3ee;
+    overflow: auto;
+    white-space: nowrap;
+    border-left: 1px solid #dedede;
+    border-right: 1px solid #dedede;
+        a {
+        border-top: 3px solid #fff;
+        display: inline-block;
+        color: black;
+        background-color: #fff;
+        text-align: center;
+        padding: 14px;
+        text-decoration: none;
+        border-left: 1px solid #dedede;
+        &:hover {
+            border-top: 3px solid #0056b3;
+          }
+      }
+
+  }
