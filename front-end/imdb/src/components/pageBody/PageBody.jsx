@@ -2,6 +2,15 @@ import React, { Component } from 'react';
 import Nav from '../nav/Nav';
 import Main from '../main/Main';
 import Loading from '../loading/Loading';
+import {
+    BrowserRouter as Router,
+    Switch,
+    Route,
+    Link
+  } from "react-router-dom";
+import About from '../about/About';
+
+
 
 class PageBody extends Component {
     constructor(props){
@@ -12,26 +21,10 @@ class PageBody extends Component {
           isLoaded: false,//ar nufechino duomenis
           searchSuccess: false,//ar paieska pasiseke
           searchName:'',//ieskomo filmo ivedimo stringas, tikrinamas ar isviso ivestas i input lauka
-          arRado: 'False'//ar nufchintam objekte yra filmas pagal pavadinima
+          arRado: 'True'//ar nufchintam objekte yra filmas pagal pavadinima
         }
     }
-    // componentDidMount(){//nesusitvarkau su situo, negaliu niekaip fecho stringui prikabint paieskos frazes
-    
-    //     let aa = 'terminator';
-    //     // console.log('http://www.omdbapi.com/?apikey=e1c0fcab&t='+aa);
-    //     // this.setState({searchSuccess: true});
-    //     // if(this.state.searchSuccess){
-    //        fetch('http://www.omdbapi.com/?apikey=e1c0fcab&t='+aa)
-    //         .then(res => res.json())
-    //         .then(json =>{
-    //         this.setState({
-    //             isLoaded: true,
-    //             items: json,
-    //         })
-    //         }); 
-    //     //}
-    // }
-
+ 
     handleSearch=()=>{
         if(this.state.searchName.length>0){
             this.setState({searchSuccess: true});
@@ -48,7 +41,10 @@ class PageBody extends Component {
         }else{
             this.setState({searchSuccess: false});
             alert("Įveskite filmo pavadinimą");
-        }        
+        }
+        if(this.state.arRado==='False'){
+            alert("Nerado tokio filmo");
+        }       
     }
      
     handleSearchChange=(e)=>{
@@ -100,14 +96,28 @@ class PageBody extends Component {
             )
           }
           //jei nenufechino arba nerado nufechintam objekte ieskomo filmo title'o tada renderina Nav ir Loading componentus
-          //ALERT!!! nesutvarkiau jeigu nufechintam objekte neranda filmo, neparodo jokio pranesimo nes is pradziu buna FALSE
           else{
             return (
                 <React.Fragment>
-                    <Nav triggerParentInput={this.handleSearchChange} triggerParentInputValue ={this.state.searchName} triggerParentButton={this.handleSearch} bandom={this.bandom}/>
-                    <Loading />
+
+
+                    {/* <Nav triggerParentInput={this.handleSearchChange} triggerParentInputValue ={this.state.searchName} triggerParentButton={this.handleSearch} bandom={this.bandom}/>
+                    <Loading /> */}
+
+                    <Router>
+                        <Switch>
+                            <Route exact path="/">
+                                <Nav triggerParentInput={this.handleSearchChange} triggerParentInputValue ={this.state.searchName} triggerParentButton={this.handleSearch} bandom={this.bandom}/>
+                                <Loading />
+                            </Route>
+                            <Route path="/about">
+                                <Nav triggerParentInput={this.handleSearchChange} triggerParentInputValue ={this.state.searchName} triggerParentButton={this.handleSearch} bandom={this.bandom}/>
+                                <About />
+                            </Route>
+                        </Switch>
+                    </Router>
+
                 </React.Fragment>
-                
             );
           }
 

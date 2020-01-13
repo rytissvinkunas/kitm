@@ -10,15 +10,42 @@ class Main extends Component {
                 Value = {movieItem.Value}
             />);           
         return (
-            <main className="bg-light">
-                <p>{this.props.title}</p>
-                <p>{this.props.year}</p>
-                <p>{this.props.rated}</p>
-                <p>{this.props.released}</p>
-                <p>{this.props.runtime}</p>
-                <p>{this.props.genre}</p>
-                <p>{movieComponentsRatings}</p>
+            <main className="bg-light p-2">
                 
+
+                <table className="table">
+                    {/* <thead>
+                        <tr>
+                            <th scope="col">Pavadinimas</th>
+                            <th scope="col">Trumpas aprašas</th>
+                            <th scope="col">IMDB reitingas</th>
+                            <th scope="col">Trukmė</th>
+                            <th scope="col">Režiserius</th>
+                        </tr>
+                    </thead> */}
+                    <tbody>
+                        <tr>
+                            <th scope="col">Pavadinimas</th>
+                            <td>{this.props.title}</td>
+                        </tr>
+                        <tr>
+                            <th scope="col">Trumpas aprašas</th>
+                            <td>{this.props.plot}</td>
+                        </tr>
+                        <tr>
+                            <th scope="col">IMDB reitingas</th>
+                            <td>{movieComponentsRatings}</td>
+                        </tr>
+                        <tr>
+                            <th scope="col">Trukmė</th>
+                            <td>{this.props.runtime}</td>
+                        </tr>
+                        <tr>
+                            <th scope="col">Režiserius</th>
+                            <td>{this.props.director}</td>
+                        </tr>
+                    </tbody>
+                    </table>
             </main>
         );
     }

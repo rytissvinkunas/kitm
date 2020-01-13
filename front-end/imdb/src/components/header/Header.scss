@@ -1,0 +1,21 @@
+$bg-color: #63b0d1;
+$text-color: #1d1c1c;
+$link-text-color: #4604fd;
+$header-font: #0e4e79;
+
+.myHeader{
+    background: $bg-color;
+    a{
+        color: $text-color;
+        display: inline;
+        &:hover{
+            text-decoration: none;
+            color: $link-text-color;
+        }
+    }
+    h1{
+        font-family: Constantia;
+        color: $header-font;
+    }
+    
+}

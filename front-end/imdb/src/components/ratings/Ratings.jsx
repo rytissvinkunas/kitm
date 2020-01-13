@@ -2,10 +2,14 @@ import React, { Component } from 'react';
 
 class Ratings extends Component {
     render() {
+
+        if(this.props.Source==="Internet Movie Database"){
+            var ratingNumber = this.props.Value
+        }
+
         return (
             <React.Fragment>
-                <p>{this.props.Source}</p>
-                <p>{this.props.Value}</p>    
+                {ratingNumber}  
             </React.Fragment>
         );
     }

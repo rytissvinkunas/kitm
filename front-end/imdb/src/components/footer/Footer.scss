@@ -1,0 +1,17 @@
+$bg-color: #63b0d1;
+$text-color: #fff;
+$link-text-color: #4604fd;
+
+.myFooter{
+    background: $bg-color;
+    text-align: center;
+    a{
+        color: $text-color;
+        display: inline;
+        &:hover{
+            text-decoration: none;
+            color: $link-text-color;
+        }
+    }
+    
+}
