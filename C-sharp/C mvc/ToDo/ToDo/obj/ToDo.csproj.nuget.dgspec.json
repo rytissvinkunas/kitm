@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\moksleivis\\Desktop\\git kitm\\C-sharp\\C mvc\\ToDo\\ToDo\\ToDo.csproj": {}
+    "C:\\Users\\RytisSvinkūnas\\Desktop\\gitas\\C-sharp\\C mvc\\ToDo\\ToDo\\ToDo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\moksleivis\\Desktop\\git kitm\\C-sharp\\C mvc\\ToDo\\ToDo\\ToDo.csproj": {
+    "C:\\Users\\RytisSvinkūnas\\Desktop\\gitas\\C-sharp\\C mvc\\ToDo\\ToDo\\ToDo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\moksleivis\\Desktop\\git kitm\\C-sharp\\C mvc\\ToDo\\ToDo\\ToDo.csproj",
+        "projectUniqueName": "C:\\Users\\RytisSvinkūnas\\Desktop\\gitas\\C-sharp\\C mvc\\ToDo\\ToDo\\ToDo.csproj",
         "projectName": "ToDo",
-        "projectPath": "C:\\Users\\moksleivis\\Desktop\\git kitm\\C-sharp\\C mvc\\ToDo\\ToDo\\ToDo.csproj",
-        "packagesPath": "C:\\Users\\moksleivis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\moksleivis\\Desktop\\git kitm\\C-sharp\\C mvc\\ToDo\\ToDo\\obj\\",
+        "projectPath": "C:\\Users\\RytisSvinkūnas\\Desktop\\gitas\\C-sharp\\C mvc\\ToDo\\ToDo\\ToDo.csproj",
+        "packagesPath": "C:\\Users\\RytisSvinkūnas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RytisSvinkūnas\\Desktop\\gitas\\C-sharp\\C mvc\\ToDo\\ToDo\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\moksleivis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\RytisSvinkūnas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -78,10 +75,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
